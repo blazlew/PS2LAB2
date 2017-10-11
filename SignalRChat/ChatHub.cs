@@ -11,6 +11,7 @@ namespace SignalRChat
             Clients.All.broadcastMessage(name, message);
             //lol
             //lol2
+            //piotr branch
         }
     }
 }
